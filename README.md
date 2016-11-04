@@ -1,3 +1,5 @@
+# NOTE: this repo is now obsolete! Please use the selbouhaddan/OmicsPLS repo for applying O2PLS! Future updates will be pushed there!
+
 # O2PLS
 
 Welcome to the O2PLS package page on Github!
